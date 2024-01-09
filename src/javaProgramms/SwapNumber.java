@@ -6,6 +6,7 @@ public class SwapNumber {
 		// Swap the given 2 number
 		//Ex: a = 20, b=50, so print a=50 and b=20
 		
+		System.out.println("Pls enter the nmubers");
 		int a = 10;
 		
 		int b = 30;
